@@ -1,3 +1,4 @@
+create ExerciseDb
 use ExerciseDb
 
 create table CompanyInfo
