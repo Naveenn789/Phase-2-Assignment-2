@@ -1,4 +1,4 @@
-create ExerciseDb
+create database ExerciseDb
 use ExerciseDb
 
 create table CompanyInfo
